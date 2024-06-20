@@ -83,9 +83,9 @@ android {
     buildToolsVersion rootProject.ext.buildToolsVersion
     compileSdk rootProject.ext.compileSdkVersion
 
-    namespace 'com.nazarii98.testproject'
+    namespace 'com.app.voicenoteswear'
     defaultConfig {
-        applicationId 'com.nazarii98.testproject'
+        applicationId 'com.app.voicenoteswear'
         minSdkVersion rootProject.ext.minSdkVersion
         targetSdkVersion rootProject.ext.targetSdkVersion
         versionCode 1

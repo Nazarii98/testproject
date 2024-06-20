@@ -1,4 +1,4 @@
-package com.nazarii98.testproject.token_bridge
+package com.app.voicenotes.token_bridge
 
 import android.util.Log
 import com.facebook.react.bridge.ReactApplicationContext

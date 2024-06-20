@@ -1,5 +1,6 @@
-package com.nazarii98.testproject.token_bridge
+package com.app.voicenotes.token_bridge
 
+import com.app.voicenotes.token_bridge.TokenBridgeModule
 import com.facebook.react.ReactPackage
 import com.facebook.react.bridge.NativeModule
 import com.facebook.react.bridge.ReactApplicationContext

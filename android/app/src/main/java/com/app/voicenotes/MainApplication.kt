@@ -1,8 +1,9 @@
-package com.nazarii98.testproject
+package com.app.voicenotes
 
 import android.app.Application
 import android.content.res.Configuration
 import android.util.Log
+import com.app.voicenotes.token_bridge.TokenBridgePackage
 import com.facebook.react.PackageList
 import com.facebook.react.ReactApplication
 import com.facebook.react.ReactHost
@@ -11,7 +12,6 @@ import com.facebook.react.ReactPackage
 import com.facebook.react.defaults.DefaultNewArchitectureEntryPoint.load
 import com.facebook.react.defaults.DefaultReactNativeHost
 import com.facebook.soloader.SoLoader
-import com.nazarii98.testproject.token_bridge.TokenBridgePackage
 import expo.modules.ApplicationLifecycleDispatcher
 import expo.modules.ReactNativeHostWrapper
 
