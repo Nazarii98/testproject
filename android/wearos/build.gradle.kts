@@ -24,7 +24,7 @@ android {
         create("release") {
             keyAlias = "androidrelease"
             keyPassword = "android"
-            storeFile = file("C:\\Users\\Admin\\AndroidStudioProjects\\android-wear\\app\\debug.keystore")
+            storeFile = file("release.keystore")
             storePassword = "android"
         }
     }
