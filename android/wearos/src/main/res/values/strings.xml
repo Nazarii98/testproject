@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">Voicenotes</string>
+    <!--
+    This string is used for square devices and overridden by hello_world in
+    values-round/strings.xml for round devices.
+    -->
+    <string name="hello_world">From the Square world,\nHello, %1$s!</string>
+
+    <string name="record_synced">⌚ Synced and transcribed when you\'re back online....</string>
+    <string name="record_uploading">Uploading your audio.</string>
+    <string name="record_transcripting">Creating trasnscript from your voice.</string>
+    <string name="record_empty_title">New Recording</string>
+
+</resources>
