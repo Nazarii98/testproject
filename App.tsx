@@ -18,7 +18,7 @@ export default function App() {
   const handleLogin = async () => {
     try {
       const response = await fetch(
-        "https://stageapi.voicenotes.com/api/auth/login",
+        "https://stagingapi.voicenotes.com/api/auth/login",
         {
           method: "POST",
           headers: {
